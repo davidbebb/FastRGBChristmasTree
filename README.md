@@ -70,3 +70,7 @@ If you want to go even faster, you might want to mod your Christmas tree. Please
 
 
 ## Installing dependencies with [uv](https://github.com/astral-sh/uv?tab=readme-ov-file#installation)
+
+```bash
+uv sync
+```
